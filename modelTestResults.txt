@@ -1,0 +1,6 @@
+Confusion Matrix
+True Positive	True Negative	False Positive	False Negative
+		21			16				0				0
+The Model is 100.0% Accurate
+The Model Precision is 1.0
+The Model Recall is 1.0
